@@ -1,0 +1,15 @@
+# Ignore database and uploads
+chirp.db
+uploads/
+logs/
+config.json
+
+# Go build
+*.exe
+*.dll
+*.so
+*.dylib
+
+# editor
+.vscode/
+.idea/
