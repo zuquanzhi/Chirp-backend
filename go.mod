@@ -1,8 +1,6 @@
 module github.com/zuquanzhi/Chirp/backend
 
-go 1.24.0
-
-toolchain go1.24.6
+go 1.20
 
 require (
 	github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
